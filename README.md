@@ -1,14 +1,14 @@
 # Hardware-sales-dashboard
 
-Situation :
+# Situation :
   A computer hardware business is facing challenges to scale in dynamically changing marcket and lack actionable insights.
   
-Task : 
+# Task : 
   To provide an automated dashboard that helps in making data informed descisions.
 
-Action:
+# Action:
   Analyzing data using SQL and Power BI to track revenue growth and year on year trends and region wise sales performance.
 
-Result :
+# Result:
   The dashboard provided actionable insights that would lead potential revenue increase in the next quarter.
 
